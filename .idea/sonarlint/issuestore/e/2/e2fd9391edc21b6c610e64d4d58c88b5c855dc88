@@ -1,0 +1,19 @@
+
+s	java:S116"^Rename this field "SELECT_ALL_STUDENTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÒ
+s	java:S116"YRename this field "INSERT_STUDENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆòÖüÿÿÿÿ
+|	java:S116"bRename this field "SELECT_SPECIFIC_STUDENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÅÑ–úÿÿÿÿ
+n	java:S116"YRename this field "UPDATE_STUDENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó„Î
+s	java:S116"YRename this field "DELETE_STUDENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ã‡üÿÿÿÿ
+t	java:S116"ZRename this field "SEARCH_STUDENTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î«¯àüÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ÿÒ
+<
+java:S1170"!Make this final field static too.(ÆòÖüÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(íÅÑ–úÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ó„Î
+<
+java:S1170"!Make this final field static too.(“Ã‡üÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(Î«¯àüÿÿÿÿ

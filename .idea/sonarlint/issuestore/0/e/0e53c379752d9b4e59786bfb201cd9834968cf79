@@ -1,0 +1,18 @@
+
+é	java:S116"tRename this field "SELECT_SPECIFIC_USER_BY_NAME_AND_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(πÖªö¸ˇˇˇˇ
+|	java:S116"gRename this field "SELECT_SPECIFIC_USER_BY_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â·ñ¶
+j	java:S116"VRename this field "INSERT_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ßﬁl
+k	java:S116"VRename this field "UPDATE_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒÔñ
+p	java:S116"VRename this field "DELETE_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Â≥¿¸ˇˇˇˇ
+<
+java:S1170"!Make this final field static too.(πÖªö¸ˇˇˇˇ
+7
+java:S1170"!Make this final field static too.(Â·ñ¶
+6
+java:S1170"!Make this final field static too.(»ßﬁl
+7
+java:S1170"!Make this final field static too.(ùƒÔñ
+<
+java:S1170"!Make this final field static too.( Â≥¿¸ˇˇˇˇ
+j
+java:S2095@"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ıÆÃì˘ˇˇˇˇ
